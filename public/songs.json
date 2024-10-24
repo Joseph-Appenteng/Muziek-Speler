@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Song Title 1",
+      "artist": "Artist 1",
+      "duration": "2:38",
+      "file": "/songs/Post Malone, Swae Lee - Sunflower (Spider-Man Into the Spider-Verse).mp3",
+      "artwork": "/images/download.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Song Title 2",
+      "artist": "Artist 2",
+      "duration": "4:30",
+      "file": "/songs/PLAYBOI CARTI - BANDO (WHAT IS THAT MELODY) (TikTok Sound)_NFNwZqAwQ8I (1).mp3",
+      "artwork": "/images/download (1).jpg"
+    },
+    {
+      "id": 3,
+      "title": "Song Title 3",
+      "artist": "Artist 3",
+      "duration": "4:30",
+      "file": "/songs/DaBaby-Gunna-Pushin-P-L-A-Leakers-Freestyle.mp3",
+      "artwork": "/images/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Song Title 4",
+      "artist": "Artist 4",
+      "duration": "4:30",
+      "file": "/songs/Wizkid_-_Soco_ft_Ceeza_Milli_Spotless_Terri-tooXclusive_.mp3",
+      "artwork": "/images/soco.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Song Title 5",
+      "artist": "Artist 5",
+      "duration": "4:30",
+      "file": "/songs/Drake-No-Friends-In-The-Industry-1(TrendyBeatz.com).mp3",
+      "artwork": "/images/drake.jpg"
+    }
+  ]
+  
